@@ -3,7 +3,7 @@
         <!-- className 'J_OXMod' required  -->
         <div class="J_OXMod oxmod-tpl-placehoder" ox-mod="tpl-placehoder">
             <h1>
-                This is mod tpl-placehoder;
+                页面内容
             </h1>
         </div>
     </xsl:template>
